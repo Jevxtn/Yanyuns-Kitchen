@@ -7,7 +7,7 @@ The Yanyun's Kitchen Flutter Mobile App is your gateway to a culinary adventure 
  VS Code, Mobile Application
 
 ## Mobile Dev
-Flutter
+Flutter (Dart)
 
 ## Getting Started
 
